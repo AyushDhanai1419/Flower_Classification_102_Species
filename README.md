@@ -35,4 +35,4 @@
 
 
 
-<h4>&nbsp;&nbsp;Let us know if any issue arise and we'd love your contribution in making this project even better.</h4>
+<h4>&nbsp;&nbsp;Let me know if any issue arise, I would love your contribution in making this project even better.</h4>
